@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! i am a b-tech final year student. 👋
 
 <!--
 **nrajpoot1146/nrajpoot1146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
