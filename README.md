@@ -3,6 +3,8 @@
 ### 9621337586
 ### nrajpoot1146@gmail.com
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrajpoo1146&theme=radical" />
+
 
 <!--
 **nrajpoot1146/nrajpoot1146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
