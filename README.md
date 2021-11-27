@@ -1,4 +1,7 @@
-### Hi! i a Assistant System Enginneer at Tata Consultancy Services.
+# Hi! This is Narendra Rajpoot
+### Assistant System Engineer at Tata Consultancy Services
+### 9621337586
+### nrajpoot1146@gmail.com
 
 
 <!--
