@@ -4,14 +4,19 @@
 <div>nrajpoot1146@gmail.com</div>
 
 ## Work Experience
-#### Assistant System Engineer
-###### Tata Consultancy Services
-###### October 2020 to present
-
-#### Subject Matter Expert (Computer Science)
-##### Chegg
-###### Solve 400+ programming quetions
-###### Language used C/C++, Python, Java, HTML, CSS, JavaScript
+<ul>
+  <li>Assistant System Engineer</li>
+  <div>
+    Tata Consultancy Services <br>
+    October 2020 to present
+  </div>
+  <li>Subject Matter Expert (Computer Science)</li>
+  <div>
+    Chegg<br>
+    Solve 400+ programming quetions<br>
+    Language used C/C++, Python, Java, HTML, CSS, JavaScript
+  </div>
+</ul>
 
 ## Technical Skills
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
