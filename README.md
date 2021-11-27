@@ -1,4 +1,5 @@
-### Hi! i am a b-tech final year student. 👋
+### Hi! i a Assistant System Enginneer at Tata Consultancy Services.
+
 
 <!--
 **nrajpoot1146/nrajpoot1146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
