@@ -7,14 +7,14 @@
 <ul>
   <li>Assistant System Engineer</li>
   <div>
-    Tata Consultancy Services <br>
-    October 2020 to present
+     &nbsp;Tata Consultancy Services <br>
+     &nbsp;October 2020 to present
   </div>
   <li>Subject Matter Expert (Computer Science)</li>
   <div>
-    Chegg<br>
-    Solve 400+ programming quetions<br>
-    Language used C/C++, Python, Java, HTML, CSS, JavaScript
+     &nbsp;Chegg<br>
+     &nbsp;Solve 400+ programming quetions<br>
+     &nbsp;Language used C/C++, Python, Java, HTML, CSS, JavaScript
   </div>
 </ul>
 
