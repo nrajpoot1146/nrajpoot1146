@@ -1,45 +1,107 @@
-# Hi! This is Narendra Rajpoot
-<div>Assistant System Engineer at Tata Consultancy Services</div>
-<div>9621337586</div>
-<div>nrajpoot1146@gmail.com</div>
+# **Narendra Rajpoot**
 
-## Work Experience
-<ul>
-  <li>Assistant System Engineer</li>
-  <div>
-     &nbsp;Tata Consultancy Services <br>
-     &nbsp;October 2020 to present
-  </div>
-  <li>Subject Matter Expert (Computer Science)</li>
-  <div>
-     &nbsp;Chegg<br>
-     &nbsp;Solve 400+ programming quetions<br>
-     &nbsp;Language used C/C++, Python, Java, HTML, CSS, JavaScript
-  </div>
-</ul>
+Assistant System Engineer
 
-## Technical Skills
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
+Tata Consultancy Services Ltd
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrajpoot1146&show_icons=true&theme=dark" /> -->
+# **Work Experience**
 
+## **Tata Consultancy Services** _(2020-now)_
 
-<!--
-**nrajpoot1146/nrajpoot1146** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Assistant System Engineer**
 
-Here are some ideas to get you started:
+- Developed Automation Scripts implemented in the Python Programming language to reduce manual efforts and improve efficiency.
+- Logical optimization in the application to improve its performance.
+- Developed a Testing Environment using C/C++, SCANeR Simulation Tool, and API.
+- Analyze Log Validation tool that&#39;s implemented in the Python Programming language and reduce its time complexity by 90%.
+- Implemented Shared memory using Dynamic Link Library (DLL) for message passing between two processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Subject Matter Expert at Chegg** _(2019-2020)_
+
+- Solved 400+ Programming Questions of cross languages (like C/C++, Java, Python, etc.).
+- Maintained 80+ C.F. score.
+
+## **Student Research Associate, IIT Kanpur** _(2020)_
+
+- Developed Virtual Lab of Physics Experiment named Measurement of high resistance by the method of leakage of a condenser and Measurement of Numerical aperture of optical fiber.
+
+- [h ttps://bop-iitk.vlabs.ac.in/List%20of%20experiments.html](https://bop-iitk.vlabs.ac.in/List%20of%20experiments.html)
+
+# **Educational Background**
+
+## **Bachelor of Technology** _(2016-2020)_
+
+Information Technology
+
+Rajkiya Engineering College, Banda
+
+CGPA: 7.68
+
+## **Intermediate** _(2014)_
+
+PCM and Computer Science
+
+Bhani Devi Goyal SVM Inter College, Jhansi U.P
+
+## **High School** _(2012)_
+
+PCM and Computer Science
+
+Bhani Devi Goyal SVM Inter College, Jhansi U.P
+
+# **Rewards &amp; achievements**
+
+- On The Spot Award (excellent performance)
+- 1st Prize winner in HackTech: National Level Hackathon organized by Rajkiya Engineering College, Banda
+- Secure first position in Web Designing in the Annual Technical Fest Avatar&#39;17 organized by Technical Organizing Committee of REC, Banda.
+- Secure first position in Coding Competition in the Annual Technical Fest organized by Technical Organizing Committee of REC, Banda.
+
+✉ [nrajpoot1146@gmail.com](mailto:nrajpoot1146@gmail.com)
+
+🖁 9621337586
+
+![Shape2](RackMultipart20220313-4-1n6h3hb_html_e3089dbd0111c99f.gif)[@nrajpoot1146](https://github.com/nrajpoot1146) ![](RackMultipart20220313-4-1n6h3hb_html_f50f2f9d1d74c499.png)[@nrajpoot1146](https://www.linkedin.com/in/nrajpoot1146)
+
+# **Personal Projects**
+
+## **IOT BASED Smart Dustbin** _(2019)_
+
+- Programmed and used Arduino Uno R3 as Microcontroller
+
+and ESP8266 Wi-Fi Module for Wireless Communication.
+
+- Developed an Android App and web application to monitor Dustbin&#39;s status and location.
+- [https://github.com/nrajpoot1146/SmartDustBin](https://github.com/nrajpoot1146/SmartDustBin)
+
+## **Auto Irrigation System** _(2019)_
+
+- Designed an IOT based solution using a microcontroller.
+- Used Blynk IoT platform to monitor environmental conditions (like humidity and pressure etc.) and control Irrigation System.
+- [https://github.com/nrajpoot1146/AutoIrrigationSystem](https://github.com/nrajpoot1146/AutoIrrigationSystem)
+
+## **Online leave application system** _(2018)_
+
+- Developed Online leave application system using php core and OOPs concepts and integrated with database using MySQLi PHP library.
+- [https://github.com/nrajpoot1146/online\_leave\_appilication\_System](https://github.com/nrajpoot1146/online_leave_appilication_System)
+
+# **Research &amp; Publication**
+
+- Responsive human-computer interaction model based on recognition of facial landmarks using machine learning algorithms
+- _Multimedia Tools and Applications · Mar 8, 2022_
+
+# **Technical Skills**
+
+## **Programming Languages:** C/C++, Python, Java, HTML, CSS, JavaScript, Git (Basic), Dart (Basic), Php (Basic)
+
+## **Software &amp; Libraries:** SCANeR, MATLAB(Basic), Windows, openpyxl, pandas
+
+# **Certification**
+
+- Programming in C++, NPTEL, IITKGP
+- Java Programming, Udemy
+
+# **Positions of Responsibility**
+
+- Served in Annual Technical Fest Avatar&#39;18 as Campus Representative.
+- Successfully Coordinated in Annual Cultural Fest REVERB&#39;18
+-
