@@ -24,7 +24,6 @@ Tata Consultancy Services Ltd
 ## **Student Research Associate, IIT Kanpur** _(2020)_
 
 - Developed Virtual Lab of Physics Experiment named Measurement of high resistance by the method of leakage of a condenser and Measurement of Numerical aperture of optical fiber.
-
 - [h ttps://bop-iitk.vlabs.ac.in/List%20of%20experiments.html](https://bop-iitk.vlabs.ac.in/List%20of%20experiments.html)
 
 # **Educational Background**
@@ -60,16 +59,13 @@ Bhani Devi Goyal SVM Inter College, Jhansi U.P
 
 🖁 9621337586
 
-![Shape2](RackMultipart20220313-4-1n6h3hb_html_e3089dbd0111c99f.gif)[@nrajpoot1146](https://github.com/nrajpoot1146) ![](RackMultipart20220313-4-1n6h3hb_html_f50f2f9d1d74c499.png)[@nrajpoot1146](https://www.linkedin.com/in/nrajpoot1146)
+![Shape2](RackMultipart20220316-4-g8h71o_html_e3089dbd0111c99f.gif) ![](RackMultipart20220316-4-g8h71o_html_f50f2f9d1d74c499.png) ![](RackMultipart20220316-4-g8h71o_html_7737e7d4e3106cc5.png)[@nrajpoot1146](https://github.com/nrajpoot1146)[@nrajpoot1146](https://www.linkedin.com/in/nrajpoot1146)[@nrajpoot1146](https://www.hackerrank.com/nrajpoot1146)
 
 # **Personal Projects**
 
 ## **IOT BASED Smart Dustbin** _(2019)_
 
-- Programmed and used Arduino Uno R3 as Microcontroller
-
-and ESP8266 Wi-Fi Module for Wireless Communication.
-
+- Programmed and used Arduino Uno R3 as Microcontroller and ESP8266 Wi-Fi Module for Wireless Communication.
 - Developed an Android App and web application to monitor Dustbin&#39;s status and location.
 - [https://github.com/nrajpoot1146/SmartDustBin](https://github.com/nrajpoot1146/SmartDustBin)
 
@@ -86,8 +82,11 @@ and ESP8266 Wi-Fi Module for Wireless Communication.
 
 # **Research &amp; Publication**
 
-- Responsive human-computer interaction model based on recognition of facial landmarks using machine learning algorithms
-- _Multimedia Tools and Applications · Mar 8, 2022_
+- Responsive human-computer interaction model based on recognition of facial landmarks using machine learning algorithms _Mar 8, 2022_
+
+Publication: Multimedia Tools and Applications
+
+DOI: 10.1007/s11042-022-12775-6
 
 # **Technical Skills**
 
@@ -104,4 +103,3 @@ and ESP8266 Wi-Fi Module for Wireless Communication.
 
 - Served in Annual Technical Fest Avatar&#39;18 as Campus Representative.
 - Successfully Coordinated in Annual Cultural Fest REVERB&#39;18
--
