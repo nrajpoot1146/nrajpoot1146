@@ -1,4 +1,9 @@
 # **Narendra Rajpoot**
+✉ [nrajpoot1146@gmail.com](mailto:nrajpoot1146@gmail.com)
+
+🖁 9621337586
+
+![Shape2](RackMultipart20220316-4-g8h71o_html_e3089dbd0111c99f.gif) ![](RackMultipart20220316-4-g8h71o_html_f50f2f9d1d74c499.png) ![](RackMultipart20220316-4-g8h71o_html_7737e7d4e3106cc5.png)[@nrajpoot1146](https://github.com/nrajpoot1146)[@nrajpoot1146](https://www.linkedin.com/in/nrajpoot1146)[@nrajpoot1146](https://www.hackerrank.com/nrajpoot1146)
 
 Assistant System Engineer
 
@@ -54,12 +59,6 @@ Bhani Devi Goyal SVM Inter College, Jhansi U.P
 - 1st Prize winner in HackTech: National Level Hackathon organized by Rajkiya Engineering College, Banda
 - Secure first position in Web Designing in the Annual Technical Fest Avatar&#39;17 organized by Technical Organizing Committee of REC, Banda.
 - Secure first position in Coding Competition in the Annual Technical Fest organized by Technical Organizing Committee of REC, Banda.
-
-✉ [nrajpoot1146@gmail.com](mailto:nrajpoot1146@gmail.com)
-
-🖁 9621337586
-
-![Shape2](RackMultipart20220316-4-g8h71o_html_e3089dbd0111c99f.gif) ![](RackMultipart20220316-4-g8h71o_html_f50f2f9d1d74c499.png) ![](RackMultipart20220316-4-g8h71o_html_7737e7d4e3106cc5.png)[@nrajpoot1146](https://github.com/nrajpoot1146)[@nrajpoot1146](https://www.linkedin.com/in/nrajpoot1146)[@nrajpoot1146](https://www.hackerrank.com/nrajpoot1146)
 
 # **Personal Projects**
 
