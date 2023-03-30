@@ -1,8 +1,8 @@
 # **Narendra Rajpoot**
 
-Assistant System Engineer
+Engineer II
 
-Tata Consultancy Services Ltd
+Aristocrat Technologies
 
 # **Work Experience**
 
