@@ -1,16 +1,21 @@
 # **Narendra Rajpoot**
 
-Engineer II
+Sr. Engineer I
 
 Aristocrat Technologies
 
 # **Work Experience**
 
-## **Aristocrat Technology** _(July, 2022 - Present)_
+## **Aristocrat Technologies** _(July, 2022 - Present)_
+
+### **Sr. Engineer I**
+
+- Implemented threading and temporary file system to reduce the RAM usage and improve CPU utilization of the windows service.
+- Modified Open-Source Library to improve the performance.
 
 ### **Engineer II**
 
-- Design and Develop desktop application and games using c# and c++.
+- Design and Developed desktop application and games using c# and c++.
 - Logical optimization in the application to improve its performance.
 
 ## **Tata Consultancy Services** _(Oct, 2020 – July, 2022)_
@@ -31,6 +36,7 @@ Aristocrat Technologies
 
 - Developed Virtual Lab of Physics Experiment named Measurement of high resistance by the method of leakage of a condenser and Measurement of Numerical aperture of optical fiber.
 - [h ttps://bop-iitk.vlabs.ac.in/List%20of%20experiments.html](https://bop-iitk.vlabs.ac.in/List%20of%20experiments.html)
+- [Github](https://github.com/nrajpoot1146/Measurement-of-Numerical-Aperture-of-Optical-Fiber/tree/Developer)
 
 # **Educational Background**
 
@@ -54,16 +60,11 @@ PCM and Computer Science
 
 Bhani Devi Goyal SVM Inter College, Jhansi U.P
 
-# **Positions of Responsibility**
-
-- Served in Annual Technical Fest Avatar'18 as Campus Representative.
-- Successfully Coordinated in Annual Cultural Fest REVERB'18.
-
 ✉ [nrajpoot1146@gmail.com](mailto:nrajpoot1146@gmail.com)
 
 🖁 9621337586
 
-![Shape2](RackMultipart20230327-1-iiavgx_html_e3089dbd0111c99f.gif) ![](RackMultipart20230327-1-iiavgx_html_f50f2f9d1d74c499.png) ![](RackMultipart20230327-1-iiavgx_html_7737e7d4e3106cc5.png)[@nrajpoot1146](https://github.com/nrajpoot1146)[@nrajpoot1146](https://www.linkedin.com/in/nrajpoot1146)[@nrajpoot1146](https://www.hackerrank.com/nrajpoot1146)
+![Shape2](RackMultipart20240123-1-rx9030_html_e3089dbd0111c99f.gif) ![](RackMultipart20240123-1-rx9030_html_f50f2f9d1d74c499.png) ![](RackMultipart20240123-1-rx9030_html_7737e7d4e3106cc5.png)[@nrajpoot1146](https://github.com/nrajpoot1146)[@nrajpoot1146](https://www.linkedin.com/in/nrajpoot1146)[@nrajpoot1146](https://www.hackerrank.com/nrajpoot1146)
 
 # **Personal Projects**
 
@@ -94,7 +95,7 @@ DOI: 10.1007/s11042-022-12775-6
 
 # **Technical Skills**
 
-## **Programming Languages:** C/C++, Python, Java, GDB HTML, CSS, JavaScript, Git (Basic), Php (Basic)
+## **Programming Languages:** C/C++, Python, C#, GDB HTML, CSS, JavaScript, Git (Basic), Php (Basic)
 
 ## **Software & Libraries:** SCANeR, MATLAB(Basic), Windows, openpyxl, pandas
 
