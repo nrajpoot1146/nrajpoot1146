@@ -1,8 +1,9 @@
 **Narendra Rajpoot**
-
 Sr. Engineer I
-
 Aristocrat Technologies
+✉ <nrajpoot1146@gmail.com>
+🖁 9621337586
+![](Aspose.Words.f575c8f6-0fa2-4ede-b89d-971d0bee9db4.001.png)![](Aspose.Words.f575c8f6-0fa2-4ede-b89d-971d0bee9db4.002.png)![](Aspose.Words.f575c8f6-0fa2-4ede-b89d-971d0bee9db4.003.png)  [@nrajpoot1146](https://github.com/nrajpoot1146)       [@nrajpoot1146](https://www.linkedin.com/in/nrajpoot1146)       [@nrajpoot1146](https://www.hackerrank.com/nrajpoot1146)
 # **Work Experience**
 ## **Aristocrat Technologies**                         *(July, 2022 - Present)*
 ### **Sr. Engineer I**
@@ -39,12 +40,6 @@ Bhani Devi Goyal SVM Inter College, Jhansi U.P
 PCM and Computer Science
 
 Bhani Devi Goyal SVM Inter College, Jhansi U.P
-
-✉ <nrajpoot1146@gmail.com>
-
-🖁 9621337586
-
-![](Aspose.Words.f575c8f6-0fa2-4ede-b89d-971d0bee9db4.001.png)![](Aspose.Words.f575c8f6-0fa2-4ede-b89d-971d0bee9db4.002.png)![](Aspose.Words.f575c8f6-0fa2-4ede-b89d-971d0bee9db4.003.png)  [@nrajpoot1146](https://github.com/nrajpoot1146)       [@nrajpoot1146](https://www.linkedin.com/in/nrajpoot1146)       [@nrajpoot1146](https://www.hackerrank.com/nrajpoot1146)
 # **Personal Projects**
 ## **IOT BASED Smart Dustbin**			     *(2019)*
 - Programmed and used Arduino Uno R3 as Microcontroller and ESP8266 Wi-Fi Module for Wireless Communication.
