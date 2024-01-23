@@ -1,6 +1,9 @@
 **Narendra Rajpoot**
+
 Sr. Engineer I
+
 Aristocrat Technologies
+
 ✉ <nrajpoot1146@gmail.com>
 🖁 9621337586
 ![](Aspose.Words.f575c8f6-0fa2-4ede-b89d-971d0bee9db4.001.png)![](Aspose.Words.f575c8f6-0fa2-4ede-b89d-971d0bee9db4.002.png)![](Aspose.Words.f575c8f6-0fa2-4ede-b89d-971d0bee9db4.003.png)  [@nrajpoot1146](https://github.com/nrajpoot1146)       [@nrajpoot1146](https://www.linkedin.com/in/nrajpoot1146)       [@nrajpoot1146](https://www.hackerrank.com/nrajpoot1146)
